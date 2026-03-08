@@ -46,7 +46,6 @@ Follow these instructions to get a local copy of the project up and running.
     
 ## 💡 Usage
 
-Provide examples of how to use the project. You can include code snippets or screenshots here.
 ``` cmd
 \\ example usage
 own.exe C:\Path\To\Folder,Username
